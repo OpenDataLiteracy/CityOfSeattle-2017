@@ -1,5 +1,5 @@
 
-This project is a collaboration between the Open Data Literacy]() program @ the UW iSchool, and the City of Seattle's Open Data program.
+This project is a collaboration between the [Open Data Literacy](http://odl.ischool.uw.edu/) program @ the UW iSchool, and the [City of Seattle's Open Data](https://data.seattle.gov/) initiative. 
 
 In 2017, the Seattle Open Data Program is investing in making improvements to the quality of the datasets being hosted onto [data.seattle.gov](data.seattle.gov). A large element of this work will involve the metadata embedded within our datasets.
 
