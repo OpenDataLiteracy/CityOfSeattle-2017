@@ -44,51 +44,51 @@ Progress on deliverables will be periodically discussed with David Doyle, and th
 A rough plan of work is as follows: 
  
 ### Week 1: June 12th
-Meet champions / attend data camp
-Become familiar with Seattle’s datasets and Socrata
-Read about metadata standards and the history of how they were developed
-	For starters: 
-	W3C's draft of Open Data Standards https://www.w3.org/TR/dwbp/ 
-	Learn about DCAT: https://www.w3.org/TR/vocab-dcat/ 
-Project Open Metadata Schema: https://project-open-data.cio.gov/v1.1/schema/
+Meet champions / attend data camp  
+Become familiar with Seattle’s datasets and Socrata  
+Read about metadata standards and the history of how they were developed  
+	For starters:   
+	W3C's draft of Open Data Standards https://www.w3.org/TR/dwbp/  
+	Learn about DCAT: https://www.w3.org/TR/vocab-dcat/  
+Project Open Metadata Schema: https://project-open-data.cio.gov/v1.1/schema/  
  
 ### Week 2: June 19th
-Learn more about Seattle’s datasets
-Meet with some champions? 
-Talk to some external users?
-Research metadata standards used in other cities
+Learn more about Seattle’s datasets  
+Meet with some champions?  
+Talk to some external users?  
+Research metadata standards used in other cities  
  
 ### Week 3: June 26th
-Research metadata standards used in other cities
-Consider regional aspects & metadata in Washington 
-Begin to look more closely at City of Seattle’s datasets 
-Focus on a few specific datasets
-	Meet with some champions / stakeholders of that data? 
+Research metadata standards used in other cities  
+Consider regional aspects & metadata in Washington  
+Begin to look more closely at City of Seattle’s datasets  
+Focus on a few specific datasets  
+	Meet with some champions / stakeholders of that data?  
  
 ### Week 4: July 3rd
-Look at City of Seattle’s datasets (focus on metadata)
-	Meet with some champions? 
+Look at City of Seattle’s datasets (focus on metadata)  
+	Meet with some champions?  
  
 ### Week 5: July 10th
-Look at City of Seattle’s datasets (focus on data dictionaries)
+Look at City of Seattle’s datasets (focus on data dictionaries)  
  
 ### Week 6: July 17th
-Look at City of Seattle’s datasets (focus on data dictionaries)
-Start formulating recommendations, and outline final memo
+Look at City of Seattle’s datasets (focus on data dictionaries)  
+Start formulating recommendations, and outline final memo  
  
 ### Week 7: July 24th
-Start drafting final memo
-Share preliminary findings with Champions (their July meeting is this week)
-Ask stakeholders for feedback
+Start drafting final memo  
+Share preliminary findings with Champions (their July meeting is this week)  
+Ask stakeholders for feedback  
  
 ### Week 8: July 31st
-Incorporate feedback from stakeholders
-Finalize recommendations & write final memo
+Incorporate feedback from stakeholders  
+Finalize recommendations & write final memo  
  
 ### Week 9: August 7th
-Finish edits to final memo
-Present work
-Write blog post to share this info with other cities
+Finish edits to final memo  
+Present work  
+Write blog post to share this info with other cities  
  
 ### Week 10: August 14th
-Final time to tie up any loose ends. The final day I can work is August 16th. 
+Final time to tie up any loose ends. The final day I can work is August 16th.   
