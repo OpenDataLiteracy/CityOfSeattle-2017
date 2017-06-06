@@ -48,9 +48,9 @@ Meet champions / attend data camp
 Become familiar with Seattle’s datasets and Socrata
 Read about metadata standards and the history of how they were developed
 	For starters: 
-	W3C's draft of Open Data Standards [https://www.w3.org/TR/dwbp/] 
-	Learn about DCAT: [https://www.w3.org/TR/vocab-dcat/] 
-Project Open Metadata Schema: [https://project-open-data.cio.gov/v1.1/schema/]
+	W3C's draft of Open Data Standards https://www.w3.org/TR/dwbp/ 
+	Learn about DCAT: https://www.w3.org/TR/vocab-dcat/ 
+Project Open Metadata Schema: https://project-open-data.cio.gov/v1.1/schema/
  
 ### Week 2: June 19th
 Learn more about Seattle’s datasets
